@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @sankalpbisan
-- 👀 I’m interested in Playing with Data and Machines as well
-- 🌱 I’m currently embarking on the journey of ML
-- 💞️ I’m looking to collaborate on ...... ?
-- 📫 How to reach me .....NO IDEA.....
+Hello, and welcome to my professional LinkedIn profile!
 
-<!---
-sankalpbisan/sankalpbisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sankalp, a driven and ambitious individual currently pursuing my Post Graduate degree in Computer Science from Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur. I have a burning passion for being a part of the Data Science community and making significant contributions to this exciting field.
+
+With a strong foundation in coding, I thoroughly enjoy tackling complex problems and finding elegant solutions. My proficiency lies in languages such as C++, Java, and Python. I have already built a diverse range of (mini) projects using Python, and I'm eager to take on more challenging endeavors.
+
+I believe in continuous growth and staying updated with the latest advancements in the data-driven world. Through my dedication and commitment, I aim to make a meaningful impact and drive positive change in the realm of Data Science.
+
+I look forward to connecting with like-minded professionals in the industry. Let's collaborate and create something extraordinary together. 
+
+Until then, Happy Debugging! ❤
