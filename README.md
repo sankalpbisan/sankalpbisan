@@ -37,7 +37,7 @@ Here, you’ll find projects that showcase my skills in **Machine Learning (ML)*
 ## 📫 **Let’s Connect!**
 I’m always open to discussions about the latest advancements in **Machine Learning**, **Deep Learning**, and **AI**. Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect or collaborate!
 
-- **Email**: [sankalpbisan07@gmail.com]  
+- **Email**: sankalpbisan07@gmail.com
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/sankalpbisan/)
 
 ---
