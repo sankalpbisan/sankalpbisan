@@ -8,11 +8,11 @@ Here, you’ll find projects that showcase my skills in **Machine Learning (ML)*
 
 ## 🚀 **Key Projects**
 
-### **1. Design and Development of Sign Language to Speech Conversion System** [Go to this Repo](https://github.com/sankalpbisan/Design-and-Development-of-Real-Time-Sign-Language-to-Speech-Conversion-System.git)
+### **1. Design and Development of Sign Language to Speech Conversion System**  👉[Go to this Repo](https://github.com/sankalpbisan/Design-and-Development-of-Real-Time-Sign-Language-to-Speech-Conversion-System.git)
 - Built a real-time system using **sensor-fused gloves** and **machine learning** to convert sign language gestures into spoken words.
 - Technologies: Python, Deep Learning, Embedded System, Text-to-Speech engine.
 
-### **2. Vehicle Insurance MLOps Pipeline** [Go to this Repo](https://github.com/sankalpbisan/Vehicle-Insurance-MLOps-Project.git)
+### **2. Vehicle Insurance MLOps Pipeline**  👉[Go to this Repo](https://github.com/sankalpbisan/Vehicle-Insurance-MLOps-Project.git)👈
 - Designed and implemented an end-to-end **MLOps pipeline** for predicting vehicle insurance claims.
 - Technologies: Python, Machine Learning, Docker, GitHub Actions, AWS.
 
